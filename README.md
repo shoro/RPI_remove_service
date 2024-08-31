@@ -16,6 +16,6 @@ Open a terminal and navigate to the directory where the script is located. Make 
 chmod +x remove_service.sh
 ```
 
-3. Run the Script
+3. **Run the Script**
 
 Execute the script with the name of the service you want to remove:
